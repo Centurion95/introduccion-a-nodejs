@@ -1,0 +1,16 @@
+{
+  "name": "introduccion-a-nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto para introducción a NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo Centurión",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "xlsx": "^0.18.5"
+  }
+}
